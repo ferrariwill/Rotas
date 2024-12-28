@@ -1,0 +1,45 @@
+O modelo adotado garante um código limpo e extensível, seguindo as boas praticas de design separando as camadas de serviço e acesso a dados construindo uma estrutura simples sem frameworks externos para simplificar o entendimento e a compilação.
+
+Como Executar a Aplicação
+1 - Baixe a aplicação 
+2 - Abra o terminal e navegue até a pasta do projeto
+3 - Compile o projeto 
+	csc Program.cs
+4 - Execute o programa
+	Para a executação do programa será necessário colocar o nome do executavel AppRotas.exe <caminho do arquivo.CSV>
+5 - O programa necessita de um arquivo .csv para usar como base de consulta e inclusão de dados
+6 - Na execução do programa há um menu para escolha do usuário
+	1 Consultar Melhor Rota
+		Para consultar melhor rota é necessário informar a rota no modelo Origem-Destino
+	2 Incluir nova rota
+		Para incluir a nova rota será solicitado os dados para inclusão
+	3 Sair do programa
+	
+
+Estrutura dos Arquivos
+Data -> Essa classe é responsavel por gerenciar as operações de leitura e escrita das rotas no arquivo csv.
+Service -> Essa classe contém a lógica de negocios para acessar os dados.
+Domain ->  Essa classe contém as entidades utilizadas na aplicação
+
+Aplicação API
+Api implementada com dois endpoints 
+
+1 -> Consultar o menor valor de acordo com a rota passada 
+	Retornos:
+		Sucesso:
+			{
+				"descCaminho": "GRU - BRC - SCL - ORL - CDG",
+				"valor": 40
+			}
+		Erro:
+			"Rota não encontrada"
+			
+2 -> Cadastrar nova reta
+	Retornos:
+		Sucesso:
+			Rota registrada com sucess
+		Erros:
+			Se o valor informado for menor ou igual a zero retornara status 400 Valor deve ser maior que 0!
+			Se a origem for igual ao destino retornara status 400 Origem e destino são iguais!
+			Se a rota informada já existir no arquivo retornara status 400 Essa rota já está registrada
+			
