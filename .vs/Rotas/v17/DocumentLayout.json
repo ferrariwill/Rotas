@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D21BD533-B3FF-4E58-A9C1-5B12AD16D3AD}|Rotas\\Rotas.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\rotas\\controllers\\rotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21BD533-B3FF-4E58-A9C1-5B12AD16D3AD}|Rotas\\Rotas.csproj|solutionrelative:rotas\\controllers\\rotacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7B3CE29-B265-4C32-8614-A41B3F9D4075}|AppRotas\\AppRotas.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\approtas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7B3CE29-B265-4C32-8614-A41B3F9D4075}|AppRotas\\AppRotas.csproj|solutionrelative:approtas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942FAD7-E523-416E-B32E-4D3AF0B0B7BE}|Domain\\Domain.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942FAD7-E523-416E-B32E-4D3AF0B0B7BE}|Domain\\Domain.csproj|solutionrelative:domain\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBAF77D-A7EF-4585-ABCE-B24D8A4ECD7E}|Tests\\Tests.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBAF77D-A7EF-4585-ABCE-B24D8A4ECD7E}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D21BD533-B3FF-4E58-A9C1-5B12AD16D3AD}|Rotas\\Rotas.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\rotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D21BD533-B3FF-4E58-A9C1-5B12AD16D3AD}|Rotas\\Rotas.csproj|solutionrelative:rotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B0087-020C-4988-96AB-E4883C1254FD}|Data\\Data.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\data\\repository\\rotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B0087-020C-4988-96AB-E4883C1254FD}|Data\\Data.csproj|solutionrelative:data\\repository\\rotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1341F-A0C5-4CC5-90F8-9AA2DCF559C2}|Service\\Service.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\service\\services\\rotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1341F-A0C5-4CC5-90F8-9AA2DCF559C2}|Service\\Service.csproj|solutionrelative:service\\services\\rotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F1341F-A0C5-4CC5-90F8-9AA2DCF559C2}|Service\\Service.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\service\\interface\\irotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7F1341F-A0C5-4CC5-90F8-9AA2DCF559C2}|Service\\Service.csproj|solutionrelative:service\\interface\\irotaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{978B0087-020C-4988-96AB-E4883C1254FD}|Data\\Data.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\data\\interface\\irotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{978B0087-020C-4988-96AB-E4883C1254FD}|Data\\Data.csproj|solutionrelative:data\\interface\\irotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6942FAD7-E523-416E-B32E-4D3AF0B0B7BE}|Domain\\Domain.csproj|c:\\users\\wdario\\desktop\\testeapi\\rotas\\domain\\melhorrota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6942FAD7-E523-416E-B32E-4D3AF0B0B7BE}|Domain\\Domain.csproj|solutionrelative:domain\\melhorrota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\AppRotas\\Program.cs",
+              "RelativeDocumentMoniker": "AppRotas\\Program.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\AppRotas\\Program.cs",
+              "RelativeToolTip": "AppRotas\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:58:19.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T00:32:19.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Rotas\\Program.cs",
+              "RelativeDocumentMoniker": "Rotas\\Program.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Rotas\\Program.cs",
+              "RelativeToolTip": "Rotas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:23:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotaController.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Rotas\\Controllers\\RotaController.cs",
+              "RelativeDocumentMoniker": "Rotas\\Controllers\\RotaController.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Rotas\\Controllers\\RotaController.cs*",
+              "RelativeToolTip": "Rotas\\Controllers\\RotaController.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T23:07:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RotaService.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Service\\Services\\RotaService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\RotaService.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Service\\Services\\RotaService.cs",
+              "RelativeToolTip": "Service\\Services\\RotaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:47:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRotaService.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Service\\Interface\\IRotaService.cs",
+              "RelativeDocumentMoniker": "Service\\Interface\\IRotaService.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Service\\Interface\\IRotaService.cs",
+              "RelativeToolTip": "Service\\Interface\\IRotaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:45:47.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Data\\Repository\\RotaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\RotaRepository.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Data\\Repository\\RotaRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\RotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:38:54.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MelhorRota.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Domain\\MelhorRota.cs",
+              "RelativeDocumentMoniker": "Domain\\MelhorRota.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Domain\\MelhorRota.cs",
+              "RelativeToolTip": "Domain\\MelhorRota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:36:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Domain\\Rota.cs",
+              "RelativeDocumentMoniker": "Domain\\Rota.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Domain\\Rota.cs",
+              "RelativeToolTip": "Domain\\Rota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:34:47.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Data\\Interface\\IRotaRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IRotaRepository.cs",
+              "ToolTip": "C:\\Users\\wdario\\Desktop\\testeapi\\Rotas\\Data\\Interface\\IRotaRepository.cs",
+              "RelativeToolTip": "Data\\Interface\\IRotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:34:03.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
